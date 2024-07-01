@@ -72,7 +72,7 @@ const Index = () => {
 									}}
 								>
 									<Text className="text-5xl text-white font-bold text-center">
-										WordleHints{"\n"}
+										Wordledle{"\n"}
 										<Text className="text-lg text-amber-200">
 											By Mitch, Kyle
 										</Text>
@@ -96,7 +96,7 @@ const Index = () => {
 										<Text className="text-base font-pregular text-white text-center">
 											Don't play hard, play smart: {"\n"}
 											Find infinite possibilities with
-											WordleHints.
+											Wordledle.
 										</Text>
 									</View>
 								</View>
